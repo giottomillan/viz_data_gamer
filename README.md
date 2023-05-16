@@ -45,6 +45,4 @@ Para ejecutar el proyecto y ver las visualizaciones interactivas, sigue los sigu
 
 ## Contribuciones y mejoras futuras
 
-Este proyecto se encuentra en una etapa inicial y se pueden realizar varias mejoras y adiciones en el futuro. Algunas de las posibles áreas de mejora incluyen:
-
-- Ampliar el conjunto de datos para
+Este proyecto se encuentra en una etapa inicial y se pueden realizar varias mejoras y adiciones en el futuro.
